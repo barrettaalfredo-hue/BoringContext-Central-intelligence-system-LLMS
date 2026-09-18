@@ -4,7 +4,7 @@ Privat molnminne för **Claude Desktop**. Claude sparar och hämtar via tre MCP-
 
 TypeScript. **Vercel** + **Supabase** (Stockholm). Ingen Python, worker, kö, Cron eller vektordatabas.
 
-Hur man loggar in och kopplar Claude står i Confluence, inte här.
+Hur man loggar in och kopplar Claude, ChatGPT och Grok står i Confluence och i den delade lösenordshanteraren. **Inga lösenord, tokens eller API-nycklar i git.**
 
 ## Live — gren `integration/v1`
 
